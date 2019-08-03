@@ -1,0 +1,15 @@
+{
+  "name": "code-challenge-event-arrangement",
+  "version": "1.0.0",
+  "description": "code challange for calender event arrangement",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "main": "index.js",
+  "author": "bingzheyuan@gmail.com",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "parcel": "^1.11.0"
+  }
+}
